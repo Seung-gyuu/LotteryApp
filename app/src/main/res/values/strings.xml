@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="winning_result"><b>Draw %1$s</b> </string>
+    <string name="win_prize"> $ <big><big><b>%1$s</b></big></big> M</string>
+    <string name="win_prize_1">(Prize $ <b>%1$s</b> M )</string>
+</resources>
